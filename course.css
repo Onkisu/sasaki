@@ -436,7 +436,23 @@ header #menu{
     font-size: 13px;
     padding-left: 30px;
     padding-bottom: 20px;
+    padding: 1rem 0;
 }
 .content .btn{
   margin-left :30px ;
 }
+
+/* course */
+.course .boxcontainer .box{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;  
+}
+.heading{
+    color:#444;
+    padding: 1rem;
+    font-size: 4rem;
+    text-align: center;
+}
+/* end course */
