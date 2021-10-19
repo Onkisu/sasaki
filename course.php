@@ -119,6 +119,140 @@
 
 </section>
 
+
+
+ <!-- course section -->
+<section class="course" id="course">
+ <h1 class="heading">Our Courses Levels</h1>
+   <div class="boxcontainer">
+   <div class="box">
+    <img src="JLPT-N5.jpg" alt="">
+    <h3 class="price">$40</h3>
+    <div class="content">
+      <div class="stars">
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star-half"></i>
+      </div>
+      <a href="#" class="title">Learn for JLPT N5 exam</a>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti laudantium, expedita aliquid a omnis facere quam, 
+          quia non porro odio ipsa quidem dolor deserunt accusamus perferendis ut 
+          quos enim perspiciatis.</p>
+          <div class="info">
+              <h3> <i class="far fa-clock"></i> 2 hours </h3>
+              <h3> <i class="far fa-calendar-alt"></i> 3 months </h3>
+              <h3> <i class="fas fa-book"></i> 14 modules</h3>
+          </div>
+    </div>
+  </div>
+
+<div class="box">
+    <img src="JLPT-N4.jpg" alt="">
+    <h3 class="price">$44</h3>
+    <div class="content">
+      <div class="stars">
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star-half"></i>
+      </div>
+      <a href="#" class="title">Learn for JLPT N4 exam</a>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti laudantium, expedita aliquid a omnis facere quam, 
+          quia non porro odio ipsa quidem dolor deserunt accusamus perferendis ut 
+          quos enim perspiciatis.</p>
+          <div class="info">
+              <h3> <i class="far fa-clock"></i> 2 hours </h3>
+              <h3> <i class="far fa-calendar-alt"></i> 3 months </h3>
+              <h3> <i class="fas fa-book"></i> 14 modules</h3>
+          </div>
+    </div>
+</div>
+
+<div class="box">
+    <img src="JLPT-N3.jpg" alt="">
+    <h3 class="price">$49</h3>
+    <div class="content">
+      <div class="stars">
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star-half"></i>
+      </div>
+      <a href="#" class="title">Learn for JLPT N3 exam</a>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti laudantium, expedita aliquid a omnis facere quam, 
+          quia non porro odio ipsa quidem dolor deserunt accusamus perferendis ut 
+          quos enim perspiciatis.</p>
+          <div class="info">
+              <h3> <i class="far fa-clock"></i> 2 hours </h3>
+              <h3> <i class="far fa-calendar-alt"></i> 3 months </h3>
+              <h3> <i class="fas fa-book"></i> 14 modules</h3>
+          </div>
+    </div>
+</div>
+
+<div class="box">
+    <img src="JLPT-N2.jpg" alt="">
+    <h3 class="price">$53</h3>
+    <div class="content">
+      <div class="stars">
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star-half"></i>
+      </div>
+      <a href="#" class="title">Learn for JLPT N2 exam</a>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti laudantium, expedita aliquid a omnis facere quam, 
+          quia non porro odio ipsa quidem dolor deserunt accusamus perferendis ut 
+          quos enim perspiciatis.</p>
+          <div class="info">
+              <h3> <i class="far fa-clock"></i> 2 hours </h3>
+              <h3> <i class="far fa-calendar-alt"></i> 3 months </h3>
+              <h3> <i class="fas fa-book"></i> 14 modules</h3>
+          </div>
+    </div>
+</div>
+
+<div class="box">
+    <img src="JLPT-N1.jpg" alt="">
+    <h3 class="price">$60</h3>
+    <div class="content">
+      <div class="stars">
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star-half"></i>
+      </div>
+      <a href="#" class="title">Learn for JLPT N1 exam</a>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti laudantium, expedita aliquid a omnis facere quam, 
+          quia non porro odio ipsa quidem dolor deserunt accusamus perferendis ut 
+          quos enim perspiciatis.</p>
+          <div class="info">
+              <h3> <i class="far fa-clock"></i> 2 hours </h3>
+              <h3> <i class="far fa-calendar-alt"></i> 3 months </h3>
+              <h3> <i class="fas fa-book"></i> 14 modules</h3>
+          </div>
+    </div>
+</div>
+
+</div>
+ </section>
+ <!-- end course -->
+
+
+
+
+
     <!-- jquery -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <!-- js -->
