@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-   
+
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -103,7 +103,7 @@
 <!-- about -->
 <section class="about" id="about">
 <div class="image">
- <img src="konten2.jpg" alt="">
+ <img src="about.png" alt="">
 </div>
 
 <div class="content">
@@ -248,10 +248,49 @@
 </div>
  </section>
  <!-- end course -->
+ <!-- des discord -->
+ <!-- <section class="des" id="des">
+
+ </section> -->
+
+<!-- des discord end -->
+
+    <!-- Discord start -->
+<section class="discord" id="discord">
+<h1 class="heading">Join Our Discord Server</h1>
+ <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore repudiandae consequuntur itaque illo,
+     quisquam porro at voluptatem? Quibusdam beatae, quos quo quam libero voluptas numquam atque magni laborum vero maxime!</p>
+     
+     
+     <!-- <img src="discord.png" alt="" class="disimg"> -->
+     <a href="https://discord.gg/EadRjCyHCM"><button class="btn">Join Discord</button></a>
+</section>
 
 
 
+<!-- Discord End -->
 
+<!-- contact start -->
+<section class="contact" id="contact">
+<h1 class="heading">contact us</h1>
+<div class="row">
+<form action="">
+    <input type="text" placeholder="full name" class="box">
+    <input type="email" placeholder="your e-mail" class="box">
+    <input type="password" placeholder="your password" class="box">
+    <input type="number" placeholder="your number" class="box">
+    <textarea name="" id="" cols="30" rows="10" class="box address" placeholder="your address"></textarea>
+    <input type="submit" class="btn" value="send now">
+
+</form>
+ <div class="image">
+     <img src="contact2.png" alt="">
+ </div>
+</div>
+
+</section>
+
+<!-- contact end -->
 
     <!-- jquery -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
